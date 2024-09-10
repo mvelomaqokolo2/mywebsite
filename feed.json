@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hair For You",
+    "description": "",
+    "home_page_url": "https://mvelomaqokolo2.github.io/mywebsite",
+    "feed_url": "https://mvelomaqokolo2.github.io/mywebsite/feed.json",
+    "user_comment": "",
+    "icon": "https://mvelomaqokolo2.github.io/mywebsite/media/website/logo.png",
+    "author": {
+        "name": "Mvelo Maqokolo"
+    },
+    "items": [
+    ]
+}
